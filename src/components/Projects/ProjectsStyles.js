@@ -91,14 +91,15 @@ export const UtilityList = styled.ul`
 `;
 
 export const ExternalLinks = styled.a`
-color:#d4c0c0;
+color:#ffff;
 font-size: 1.6rem;
 padding:1rem 1.5rem;
-background: linear-gradient(to right, #25aae1, #4481eb, #04befe, #3f86ed);
+background: #9cc9e3;
 border-radius: 15px;
 transition: 0.5s;
 &:hover{
-  background: #801414;
+  background: #fff;
+  color:#9cc9e3;
 
 }
 `;

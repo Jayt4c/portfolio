@@ -17,9 +17,9 @@ const Header = () =>  (
   </Div1>
   <Div2>
     <li>
-      <Link href="https://jwebdev.vercel.app">
-        <NavLink>Blog</NavLink>
-      </Link>
+      <a target="_blank" href="https://jwebdev.vercel.app">
+        <NavLink >Blog</NavLink>
+      </a>
     </li>
     <li>
       <Link href="#projects">

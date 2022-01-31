@@ -213,7 +213,7 @@ export const ButtonFront = styled.button`
   width: 100%;
   height: 100%;
   background: linear-gradient(121.57deg, #FFFFFF 18.77%, rgba(255, 255, 255, 0.66) 60.15%);
-  opacity: ${({ disabled }) => disabled ? '.5' : '1'};
+  opacity: 0;
   transition: .4s ease;
   font-size: ${({ alt }) => alt ? '20px' : '24px'};
   font-weight: 600;
