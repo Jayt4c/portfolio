@@ -8,15 +8,15 @@ import GlobalStyles from '../../styles/globals';
 const Hero = (props) => (
   <>
   <Section row nopadding>
-    <LeftSection> 
-    <span class="bottom-left-dot"></span>
+  <span class="bottom-left-dot"></span>
     <span class="bottom-right-dot"></span>
     <span class="top-right-dot"></span>
     <span class="top-left-dot"></span>
     <span class="buttom-line"></span>
     <span class="right-line"></span>
     <span class="top-line"></span>
-    <span class="left-line"></span>     
+    <span class="left-line"></span>  
+    <LeftSection>    
       <SectionTitle main center>
         Welcome To <br />
         My Personal Portfolio
@@ -26,7 +26,7 @@ const Hero = (props) => (
       </SectionText>
       <Button onClick={props.handleClick}>Hire Me</Button>
     </LeftSection>
-  </Section>
+  </Section> 
 </>
 
 );

@@ -4,6 +4,7 @@ export const LeftSection = styled.div`
   width: 100%;
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 80%;
+    padding-left: 10px;
     display: flex;
     flex-direction: column;
 

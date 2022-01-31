@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Design. Innovate. Develop. <br />The objective is to boost your brand.</Slogan>
+          <Slogan>Design. Innovate. Develop. <br />The objective is to boost brands.</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons target="_blank" href="https://github.com/Jayt4c">

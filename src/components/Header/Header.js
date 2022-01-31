@@ -11,13 +11,13 @@ const Header = () =>  (
   <Div1>
     <Link href="/">
       <a style={{ display: 'flex', alignItems: 'center', color:"white" }}>
-        <DiCssdeck size="3rem" /> <span >JT</span>
+        <DiCssdeck size="3rem" /> 
       </a>
     </Link>
   </Div1>
   <Div2>
     <li>
-      <Link href="https://jwebdev.vercel.app/">
+      <Link href="https://jwebdev.vercel.app">
         <NavLink>Blog</NavLink>
       </Link>
     </li>

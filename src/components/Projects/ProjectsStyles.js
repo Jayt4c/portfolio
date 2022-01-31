@@ -52,7 +52,9 @@ export const Hr = styled.hr`
   height: 3px;
   margin: 20px auto;
   border: 0;
-  background: linear-gradient(270deg, #ff622e 0%, #B133FF 100%);
+  background: ${(props) => props.colorAlt ? 
+    'linear-gradient(to right, #25aae1, #4481eb, #04befe, #3f86ed)' :
+    'linear-gradient(to right, #25aae1, #4481eb, #04befe, #3f86ed)'};
 `;
 
 export const Intro = styled.div`
