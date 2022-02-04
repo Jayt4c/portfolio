@@ -1,11 +1,19 @@
 export const projects = [
   {
+    title: 'JuKoin',
+    description:"Built this real world Web 3.0 project for sending Ethereum using MetaMask",
+    image: '/images/jukoin.png',
+    tags: ['HTML', 'CSS', 'JavaScript','Solidity','Blockchain'],
+    visit: 'https://jukoin.vercel.app/',
+    id: 0,
+  },
+  {
     title: 'JWebDev',
     description: "Using Next.js, GraphCMS, and Github, i built a blog for beginners",
       image: '/images/blog.png',
       tags: ['Next.js', 'GraphCMS'],
     visit: 'https://jwebdev.vercel.app/',
-    id: 0,
+    id: 1,
   },
   {
     title: 'JT-NGO',
@@ -13,7 +21,7 @@ export const projects = [
     image: '/images/ngo.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
     visit: 'https://jt-ngo.netlify.app/',
-    id: 1,
+    id: 2,
   },
   {
     title: 'JT-FASHION',
@@ -21,7 +29,7 @@ export const projects = [
       image: '/images/fashion.png',
       tags: ['HTML', 'CSS'],
     visit: 'https://jt-fashion.netlify.app/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'TIC-TAC-TOE',
@@ -29,7 +37,7 @@ export const projects = [
     image: '/images/ttt.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
     visit: 'https://jt-tictactoe.netlify.app/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Previous Portfolio',
@@ -37,7 +45,7 @@ export const projects = [
     image: '/images/portfolio.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
     visit: 'https://jt-portfolio1.netlify.app/',
-    id: 4,
+    id: 5,
   },
   {
     title: 'JT-STOPWATCH',
@@ -53,7 +61,7 @@ export const projects = [
     image: '/images/todo.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
     visit: 'https://jt-todo.netlify.app/',
-    id: 5,
+    id: 7,
   },
 ];
 
