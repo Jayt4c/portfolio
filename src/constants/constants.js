@@ -24,11 +24,11 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'JT-FASHION',
+    title: 'JServices',
     description: "Built this fashion template using HTML and CSS only",
       image: '/images/fashion.png',
       tags: ['HTML', 'CSS'],
-    visit: 'https://jt-fashion.netlify.app/',
+    visit: 'https://jservices.vercel.app/',
     id: 3,
   },
   {
@@ -56,11 +56,11 @@ export const projects = [
     id: 6,
   },
   {
-    title: 'JT-ToDo',
+    title: 'JT-fashion',
     description: "Todo app to prioritize your tasks",
     image: '/images/todo.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
-    visit: 'https://jt-todo.netlify.app/',
+    visit: 'https://jt-fashion.netlify.app/',
     id: 7,
   },
 ];
