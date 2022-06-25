@@ -2,6 +2,8 @@ import styled from 'styled-components';
 
 export const LeftSection = styled.div`
   width: 100%;
+  padding: 30px;
+  
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 80%;
     padding-left: 10px;
