@@ -49,10 +49,10 @@ export const projects = [
   },
   {
     title: 'Medical Lab',
-    description: "A smedical laboratory site",
+    description: "A medical laboratory site",
     image: '/images/stopwatch.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
-    visit: 'https://https://muelbeth.vercel.app/',
+    visit: 'https://muelbeth.vercel.app/',
     id: 6,
   },
   {
