@@ -40,7 +40,7 @@ export const projects = [
     id: 4,
   },
   {
-    title: 'Previous Portfolio',
+    title: 'Portfolio',
     description: "This was built without using any framework",
     image: '/images/portfolio.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
@@ -48,11 +48,11 @@ export const projects = [
     id: 5,
   },
   {
-    title: 'JT-STOPWATCH',
-    description: "A site used to measure time for an event accurately",
+    title: 'Medical Lab',
+    description: "A smedical laboratory site",
     image: '/images/stopwatch.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
-    visit: 'https://jt-stopwatch.netlify.app/',
+    visit: 'https://https://muelbeth.vercel.app/',
     id: 6,
   },
   {
