@@ -16,12 +16,28 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Muelbeth',
+    description: "A medical laboratory website",
+      image: 'https://muelbeth.vercel.app/assets/img/gallery/gallery-3.jpg',
+      tags: ['html', 'css'],
+    visit: 'https://muelbeth.vercel.app/',
+    id: 2,
+  },
+{
+    title: 'Construction',
+    description: "A construction website",
+      image: 'https://muelbeth.vercel.app/assets/img/gallery/gallery-3.jpg',
+      tags: ['html', 'css'],
+    visit: 'https://kibtech.vercel.app/',
+    id: 3,
+  },
+  {
     title: 'JT-NGO',
     description:"Built this beauty using HTML, CSS and JavaScript",
     image: '/images/ngo.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
     visit: 'https://jt-ngo.netlify.app/',
-    id: 2,
+    id: 4,
   },
   {
     title: 'JServices',
@@ -29,7 +45,7 @@ export const projects = [
       image: '/images/fashion.png',
       tags: ['HTML', 'CSS'],
     visit: 'https://jservices.vercel.app/',
-    id: 3,
+    id: 5,
   },
   {
     title: 'TIC-TAC-TOE',
@@ -37,7 +53,7 @@ export const projects = [
     image: '/images/ttt.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
     visit: 'https://jt-tictactoe.netlify.app/',
-    id: 4,
+    id: 6,
   },
   {
     title: 'Portfolio',
@@ -45,15 +61,15 @@ export const projects = [
     image: '/images/portfolio.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
     visit: 'https://jt-portfolio1.netlify.app/',
-    id: 5,
+    id: 7,
   },
   {
-    title: 'Medical Lab',
-    description: "A medical laboratory site",
+    title: 'Jservices',
+    description: "A construction service finder website",
     image: '/images/stopwatch.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
-    visit: 'https://muelbeth.vercel.app/',
-    id: 6,
+    visit: 'https://jservices.vercel.app/',
+    id: 8,
   },
   {
     title: 'JT-fashion',
@@ -61,7 +77,7 @@ export const projects = [
     image: '/images/todo.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
     visit: 'https://jt-fashion.netlify.app/',
-    id: 7,
+    id: 9,
   },
 ];
 
