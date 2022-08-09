@@ -96,9 +96,9 @@ font-size: 1.6rem;
 padding:1rem 1.5rem;
 background: #9cc9e3;
 border-radius: 12px;
-border: 1px solid rgba(209, 213, 219, 0.3);
 backdrop-filter: blur(21px) saturate(180%);
 background: rgba(20, 58, 95, 0.76);
+border: 1px inset rgba(209, 213, 219, 0.3);
 transition: 0.5s;
 &:hover{
   background: #fff;
