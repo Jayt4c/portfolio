@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: 'Muelbeth',
-    description: "A medical laboratory website",
+    description: "A medical laboratory website built with html, CSS and JavaScript",
       image: 'https://muelbeth.vercel.app/assets/img/gallery/gallery-3.jpg',
       tags: ['html', 'css'],
     visit: 'https://muelbeth.vercel.app/',
@@ -25,7 +25,7 @@ export const projects = [
   },
 {
     title: 'Construction',
-    description: "A construction website",
+    description: "A construction template website built with Html, CSS and JavaScript",
       image: 'https://kibtech.vercel.app/images/blog-4.jpg',
       tags: ['html', 'css'],
     visit: 'https://kibtech.vercel.app/',
