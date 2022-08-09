@@ -66,7 +66,7 @@ export const projects = [
   {
     title: 'Jbusiness-card (still-in-progress)',
     description: "A website to design your digital business card",
-    image: 'https://www.freepik.com/free-vector/modern-professional-business-card_3784552.htm#query=business%20card&position=3&from_view=keyword',
+    image: 'https://cdn.pixabay.com/photo/2014/08/25/22/53/business-card-427513__480.png',
     tags: ['HTML', 'CSS', 'JavaScript'],
     visit: 'https://jbusinesscard.vercel.app/',
     id: 8,
@@ -74,7 +74,7 @@ export const projects = [
   {
     title: 'JT-fashion',
     description: "Todo app to prioritize your tasks",
-    image: '/images/todo.png',
+    image: 'https://jt-fashion.netlify.app/css/images/background2.jpg',
     tags: ['HTML', 'CSS', 'JavaScript'],
     visit: 'https://jt-fashion.netlify.app/',
     id: 9,
