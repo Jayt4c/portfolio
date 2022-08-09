@@ -26,7 +26,7 @@ export const projects = [
 {
     title: 'Construction',
     description: "A construction website",
-      image: 'https://muelbeth.vercel.app/assets/img/gallery/gallery-3.jpg',
+      image: 'https://kibtech.vercel.app/images/blog-4.jpg',
       tags: ['html', 'css'],
     visit: 'https://kibtech.vercel.app/',
     id: 3,
@@ -41,8 +41,8 @@ export const projects = [
   },
   {
     title: 'JServices',
-    description: "Built this fashion template using HTML and CSS only",
-      image: '/images/fashion.png',
+    description: "Built this construction service finder website template using HTML and CSS only",
+      image: 'https://kibtech.vercel.app/images/project-1.jpg',
       tags: ['HTML', 'CSS'],
     visit: 'https://jservices.vercel.app/',
     id: 5,
@@ -64,11 +64,11 @@ export const projects = [
     id: 7,
   },
   {
-    title: 'Jservices',
-    description: "A construction service finder website",
-    image: '/images/stopwatch.png',
+    title: 'Jbusiness-card (still-in-progress)',
+    description: "A website to design your digital business card",
+    image: 'https://www.freepik.com/free-vector/modern-professional-business-card_3784552.htm#query=business%20card&position=3&from_view=keyword',
     tags: ['HTML', 'CSS', 'JavaScript'],
-    visit: 'https://jservices.vercel.app/',
+    visit: 'https://jbusinesscard.vercel.app/',
     id: 8,
   },
   {
